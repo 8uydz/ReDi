@@ -13,6 +13,6 @@
 
 ### The ConvNext family is the foundation for the Models I used. (Source: https://github.com/huggingface/pytorch-image-models/tree/main)
 
-#### I recommend using Paperspace to replicate this project. I can easily train my models on the free GPU instance that Paperspace offers for on-cloud Jupyter. ( You can of course use either Kaggle Notebooks or Colab Notebooks.)
+#### I recommend using Colab Notebooks to replicate this project.
 
 ### You can test my Models at this link: ...
