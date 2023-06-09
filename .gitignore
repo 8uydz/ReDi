@@ -1,0 +1,9 @@
+.gitattributes
+.DS_Store
+.project_env
+Project_Redi
+.venv
+test
+regio-muenchen.ics
+python-intermediate-hybrid
+__pycache__
