@@ -15,4 +15,4 @@
 
 ### Colab was used to create this project.
 
-### You can test my Models at this link: ...
+### You can test my Models at this link: https://huggingface.co/spaces/henrydz/Project_Redi)
