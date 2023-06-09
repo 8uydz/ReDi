@@ -1,4 +1,4 @@
-__all__ = ['learn', 'classify_image', 'categories', 'image', 'label', 'examples', 'intf', 'multi_classifycation']
+__all__ = ['learn', 'classify_image', 'categories', 'image', 'label', 'examples', 'intf', 'multi_classification']
 
 from fastai.vision.all import *
 import gradio as gr
